@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 #fondo{
     width: 90%;
     height: 100%;
@@ -16,7 +16,7 @@
 }
 #empresa{
     color: white;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Lobster', cursive;
     font-style: 38px;
     width: 93.5%;
     text-align: right;
@@ -24,7 +24,7 @@
 #funcion{
     margin-top: -1.8%;
     color: white;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Lobster', cursive;
     font-style: 22px;
     width: 93.5%;
     text-align: right;
