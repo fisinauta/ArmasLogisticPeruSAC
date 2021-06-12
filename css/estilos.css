@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+#fondo{
+    width: 90%;
+    height: 100%;
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: #944141;
+    border-radius: 20px;
+}
+#cabecera{
+    margin-left: auto;
+    margin-right: auto;
+}
+#empresa{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: 38px;
+    width: 93.5%;
+    text-align: right;
+}
+#funcion{
+    margin-top: -1.8%;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: 22px;
+    width: 93.5%;
+    text-align: right;
+}
+
+#presentacion{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: 22px;
+    width: 93.5%;
+    text-align: left;
+    padding-left: 54px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: 50px;
+    position: relative;
+    top: 28px;
+    }
+
+#marco{
+    position: absolute;
+    left:84%;
+    top:2.2%;
+ 
+}
+#logo{
+    width:62px;
+    height:68px;
+}
+
+#izq {
+    height: 70%;    
+    border-radius: 20px;
+    float:left;
+    width: 28%;
+    margin-left: 80.54px;    
+}
+#med {
+    height: 70%;
+    border-radius: 20px;
+    
+    float:left;
+    width: 28%;
+    margin-left: 40px;
+
+}
+#der {
+    height: 70%;
+    border-radius: 20px;
+    float:left;
+    width:28%;
+    margin-left:40px;
+    
+    
+}
+#contenido{
+    width: 95%; 
+    height: 270px;
+    top:3.8%;
+    
+}
+
+#img-ser-iz{
+    height: 189.7px;  
+    width:344px;
+    border-radius: 16px;
+    position: absolute;
+    left:8.68%;
+    border: 3px solid white;
+}
+
+#img-ser-me{
+    height: 189.7px;  
+    width:345px;
+    border-radius: 16px;
+    position: absolute;
+    left:37.27%;
+    border: 3px solid white;
+}
+#img-ser-de{
+    height: 189.7px;  
+    width:345px;
+    border-radius: 16px;
+    position: absolute;
+    left:65.88%;
+    border: 3px solid white;
+}
+.descripcion{
+    width:349px;
+    background-color: white;    
+    color: black;
+    position: absolute;
+    top: 50.8%;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Staatliches', cursive;
+    }
+
+    #descripcion_iz{
+        left: 8.67%;
+        
+    }
+    #descripcion_me{
+        left: 37.25%;
+        
+    }   
+    #descripcion_de{
+        left: 66%;
+        
+    }
+    #detalle{
+        position:absolute;
+        top: 380px;
+        width: 26%;
+        height:230px;
+        border-radius: 20px;
+        border: 2px solid white;
+        background-color: white;
+        display: none;     
+                
+    }
+    #servi-cu-iz{
+        font-family: 'Roboto Slab', serif;
+        float:left;
+        margin-left:-8px;
+        display: none;     
+    }
+
+    #servi-cu-me{
+        font-family: 'Roboto Slab', serif;
+        float:left;
+        margin-left: -13px;
+        display: none;     
+           
+    }   
+    #servi-cu-de{
+        font-family: 'Roboto Slab', serif;
+        float:left;
+        margin-left: -23px;
+        display: none;     
+    }
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+
+    
