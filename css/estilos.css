@@ -88,7 +88,7 @@
 
 #img-ser-iz{
     height: 189.7px;  
-    width:100%;
+    width:33%;
     border-radius: 16px;
     position: absolute;
     left:8.68%;
@@ -97,7 +97,7 @@
 
 #img-ser-me{
     height: 189.7px;  
-    width:100%;
+    width:33%;
     border-radius: 16px;
     position: absolute;
     left:37.27%;
@@ -105,7 +105,7 @@
 }
 #img-ser-de{
     height: 189.7px;  
-    width:100%;
+    width:33%;
     border-radius: 16px;
     position: absolute;
     left:65.88%;
