@@ -90,7 +90,7 @@
     width:28%;
     border-radius: 16px;
     position: absolute;
-    left:2%;
+
     border: 3px solid white;
 }
 
@@ -99,7 +99,7 @@
     width:28%;
     border-radius: 16px;
     position: absolute;
-    left:2%;
+  
     border: 3px solid white;
 }
 #img-ser-de{
@@ -107,7 +107,7 @@
     width:28%;
     border-radius: 16px;
     position: absolute;
-    left:2%;
+    
     border: 3px solid white;
 }
 .descripcion{
